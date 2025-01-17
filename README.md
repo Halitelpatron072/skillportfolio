@@ -8,8 +8,9 @@ planning
 werk: waar ben ik het beste op mijn plek
 
 starr
-loopbanen: hoe bereik ik mijn doel
+loopbanen: hoe ik mijn doelen bereik
 
 starr
 netwerken: wie kan mij helpen om dit doel te berijken
-scan
+scannen
+
